@@ -73,4 +73,3 @@ Developed by:Tanisha S RegisterNumber:212224050053
 
 Thus implemented a SR flipflop using verilog and validated their functionality using their functional tables
 
-**RESULTS**
